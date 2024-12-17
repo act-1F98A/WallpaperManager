@@ -1479,9 +1479,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/Wallpaper_manager_mvvm.csproj",
-      "projectName": "Wallpaper_manager_mvvm",
-      "projectPath": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/Wallpaper_manager_mvvm.csproj",
+      "projectUniqueName": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/Wallpaper_manager.csproj",
+      "projectName": "Wallpaper_manager",
+      "projectPath": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/Wallpaper_manager.csproj",
       "packagesPath": "/home/act/.nuget/packages/",
       "outputPath": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/obj/",
       "projectStyle": "PackageReference",

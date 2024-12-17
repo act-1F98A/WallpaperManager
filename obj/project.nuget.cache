@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/tolNmPiJ1M=",
+  "dgSpecHash": "j/sb+RyShGY=",
   "success": true,
-  "projectFilePath": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/Wallpaper_manager_mvvm.csproj",
+  "projectFilePath": "/mnt/data_hard/PROJECTS/LINUX/Wallpapers-manager/cs_build/Wallpaper_manager/Wallpaper_manager.csproj",
   "expectedPackageFiles": [
     "/home/act/.nuget/packages/avalonia/11.2.1/avalonia.11.2.1.nupkg.sha512",
     "/home/act/.nuget/packages/avalonia.angle.windows.natives/2.1.22045.20230930/avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
